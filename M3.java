@@ -1,5 +1,5 @@
 
-public class m3
+public class M3
 {
     public static void reverse(String s1)
     {
