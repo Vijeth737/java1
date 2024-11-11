@@ -1,4 +1,4 @@
-public class m6
+public class M6
 {
     public static void main(String [] args)
     {
