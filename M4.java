@@ -1,5 +1,5 @@
 package pkg1;
-public class m4
+public class M4
 {
     public static String reverse(String s1)
     {
